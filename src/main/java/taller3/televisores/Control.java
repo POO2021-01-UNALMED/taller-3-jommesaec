@@ -13,7 +13,7 @@ public class Control {
 //		this.tv = tv;
 //	}
 	
-	public TV getTv(TV tv) {
+	public TV getTv() {
 		return this.tv; 
 	}
 	
