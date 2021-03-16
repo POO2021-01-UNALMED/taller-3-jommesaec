@@ -9,9 +9,9 @@ public class Control {
 		//tv.control = this.tv.control;
 	}
 	
-	public void setTv(TV tv) {
-		this.tv = tv;
-	}
+//	public void setTv(TV tv) {
+//		this.tv = tv;
+//	}
 	
 	public TV getTv(TV tv) {
 		return this.tv; 

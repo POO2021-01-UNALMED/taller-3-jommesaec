@@ -10,7 +10,6 @@ public class Marca {
 	
 	public void setNombre(String nombre){
 		this.nombre = nombre;
-		System.out.println(this.nombre);
 	}
 	
 	public String getNombre() {
